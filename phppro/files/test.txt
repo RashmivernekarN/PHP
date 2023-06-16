@@ -1,0 +1,2 @@
+It is a example for file reading .
+another example for file reading.
